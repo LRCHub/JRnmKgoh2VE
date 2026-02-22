@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "喫茶ドエル",
+  "base_artist": "さとうもか",
+  "createdAt": "2026-02-22T09:05:33.696466Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "喫茶ドエル",
+      "artist": "さとうもか",
+      "has_synced": false,
+      "path": "select/pl_01_喫茶ドエル_さとうもか.txt"
+    }
+  ]
+}
